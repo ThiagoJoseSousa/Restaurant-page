@@ -18,4 +18,4 @@ content.appendChild(header);
 content.appendChild(image);
 content.appendChild(paragraph);
 }
-initialPageLoad();
+export {initialPageLoad};
